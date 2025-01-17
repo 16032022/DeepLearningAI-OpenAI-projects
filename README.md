@@ -1,1 +1,1 @@
-# DeepLeannigAI-OpenAI
+# DeepLearningAI-OpenAI
