@@ -1,13 +1,13 @@
 # ![image](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56) OpenAI
 Welcome to the OpenAI repository! This repository contains reviewed and personalized code examples inspired by four short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/):
 
-## AI Python for Beginners:Automatic Task with Python    
+## AI Python for Beginners: Automatic Task with Python    
 Description to be enclosed
 
 ## AI Python for Beginners: Working with your own Data and Document
 Description to be enclosed
 
-## AI Python for Beginners:Exstending Python with Packages and API
+## AI Python for Beginners: Exstending Python with Packages and API
 Description to be enclosed
 
 ## Building System with CHATGPT AI 
