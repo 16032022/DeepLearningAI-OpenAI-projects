@@ -1,14 +1,17 @@
 # ![image](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56) OpenAI
-Welcome to the OpenAI repository! This repository contains reviewed and personalized code examples inspired by short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/):
+Welcome to the OpenAI repository! This repository contains reviewed and personalized code examples inspired by four short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/):
 
-## 🌟 Open Source Models with Hugging Face TO BE CHANGED    
-   Learn how to leverage open-source models for various NLP tasks using the Hugging Face ecosystem. Explore techniques to fine-tune, deploy, and optimize models for real-world applications.
+## AI Python for Beginnners:Automatic Task with Python    
+Description to be enclosed
 
-## ✨ Building Generative AI Applications with Gradio   TO BE CHANGED
-Discover how to create interactive, user-friendly generative AI applications using Gradio. Build and deploy stunning demos powered by cutting-edge AI models with minimal code.
+## AI Python for Beginnners: Working with your own Data and Document
+Description to be enclosed
 
-## 🌐 Explore Live Gradio Apps on Hugging Face  TO BE CHANGED 
-Want to see Gradio in action? Explore a variety of interactive Gradio applications hosted on the [Hugging Face Spaces](https://huggingface.co/). These apps provide an overview of the projects I’ve created, based on the contents of the two short courses. [Click here to explore my Gradio apps](https://huggingface.co/collections/dlaima/my-gradio-apps-6784ff8d41db1b5ffac83991) and get inspiration for your own projects!
+## AI Python for Beginnners:Exstending Python with Packages and API
+Description to be enclosed
+
+## Building System with CHATGPT AI 
+Description to be enclosed 
 
 ## ❓ What's Inside
   - Customized Code Examples: Original examples from the courses have been reviewed, refined, and personalized for improved clarity and usability.
