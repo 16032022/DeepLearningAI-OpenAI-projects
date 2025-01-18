@@ -3,6 +3,7 @@ Welcome to the OpenAI repository! This repository contains reviewed and personal
 
 ## AI Python for Beginners: Automatic Task with Python    
 In this course, you’ll learn how to automate repetitive tasks and make intelligent decisions using code. You’ll also learn essential Python concepts like lists, loops, and dictionaries and see how they can transform the way you handle and effectively use data. You’ll create AI-powered tools that can prioritize your tasks, customize recipes based on preferences, and make decisions based on data. By the end of this course, you’ll be writing Python programs that can tackle complex, real-world problems.
+You have already seen how to work with lists, dictionaries, and booleans, and are familiar with how to use all of them with LLMs. 
 
 ## AI Python for Beginners: Working with your own Data and Document
 In this course, you’ll learn how to work with your own data and documents using Python. You’ll explore loading, manipulating, and saving data from various file formats, including unstructured text and structured CSV files. You’ll leverage the power of Large Language Models (LLMs) to analyze and extract information from your data, automating complex tasks across multiple documents. By the end of the course, you’ll apply your skills to a real-world project, using Python and AI to plan a dream vacation with detailed itineraries for multiple destinations.
