@@ -16,3 +16,6 @@ openai.api_key = "sk-..."
 
 # to be enclosed in the Gihub secrets and then delete from this file 
 OPENAI_API_KEY="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"
+
+#**Note**: All the notebooks  use OpenAI library version `1.0.0`.
+
