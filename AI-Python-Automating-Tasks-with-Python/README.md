@@ -9,5 +9,6 @@ how to automate repetitive tasks and make intelligent decisions using code. Youâ
 - Customizing recipes with lists, dictionaries and AI
 - Comparing data in Python
 - Helping AI make decisions
+- Working with files
 
 

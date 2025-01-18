@@ -9,3 +9,4 @@ Learn how to work with your own data and documents using Python. You’ll explor
 - Extracting restaurant information from journal entries
 - Vacation planning using CSV files
 - Turning code blocks into reusable functions
+- Creating itineraries for multiple cities
