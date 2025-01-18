@@ -10,6 +10,7 @@ In this course, you’ll learn how to work with your own data and documents usin
 
 ## AI Python for Beginners: Extending Python with Packages and API
 In this final course, you’ll learn how to extend Python’s capabilities using pre-written packages and Application Programming Interfaces (APIs). You’ll learn how to use existing code solutions to common problems, saving time and effort in your programming. You’ll work with built-in modules, third-party packages, and online APIs to access a wide range of tools and data sources, including AI services. You’ll also learn how to install Python and Jupyter on your own computer, enabling you to continue your coding path beyond this course. By the end, you’ll have the skills to create more sophisticated programs and tap into the vast ecosystem of Python resources!
+learn how to extend the capabilities of Python using code written by other programmers!
 
 ## Building System with CHATGPT AI 
 How to automate complex workflows using chain calls to a large language model in practical scenarios, including classifying user queries to a chat agent’s response, evaluating user queries for safety, and processing tasks for chain-of-thought, multi-step reasoning. 
