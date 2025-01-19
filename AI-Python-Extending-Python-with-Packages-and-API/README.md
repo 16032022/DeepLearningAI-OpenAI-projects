@@ -7,5 +7,4 @@ Learn how to extend Python’s capabilities using pre-written packages and Appli
 - Built-in packages 📦 
 - Using third-party packages 🌐
 - Installing packages 🛠️
-- APIs to get data from the web (not enclosed why?) 🌍 
 - APIs to use AI models 🤖
