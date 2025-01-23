@@ -3,13 +3,13 @@
 ## 🤖 Building System with CHATGPT AI 
 How to automate complex workflows using chain calls to a large language model in practical scenarios, including classifying user queries to a chat agent’s response, evaluating user queries for safety, and processing tasks for chain-of-thought, multi-step reasoning. 
 
-- Language Models, the Chat Format and Tokens
-- Classification
-- Moderation
-- Chain of Thought Reasoning
-- Chaining Prompts
-- Check Outputs
-- Evaluation
-- Evaluation Part I
-- Evaluation Part II
+- Language Models, the Chat Format and Tokens 🌐 
+- Classification 🏷️
+- Moderation 🔍
+- Chain of Thought Reasoning 🧠
+- Chaining Prompts 🔗
+- Check Outputs ✅
+- Evaluation 📝 (TO BE CHECKED)
+- Evaluation Part I 📊 
+- Evaluation Part II 📈 
 
