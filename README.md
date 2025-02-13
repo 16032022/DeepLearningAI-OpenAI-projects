@@ -1,5 +1,5 @@
 # ![image](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56) OpenAI
-Welcome to the OpenAI repository! This repository contains  a collection of personalized  and freviewed code examples derived by four short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [OpenAI](https://openai.com/):
+Welcome to the OpenAI repository! This repository contains  a collection of personalized  and reviewed code examples derived by four short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [OpenAI](https://openai.com/):
 
 ## ✅ AI Python for Beginners: Automating Tasks with Python    
 An insight in essential Python basics and how to integrate Large Language Models (LLMs) to automate repetitive tasks, prioritize workflows, and make intelligent decisions.
