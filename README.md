@@ -22,7 +22,7 @@ Automate workflows through LLMs, addressing complex tasks like query classificat
   - Additional Resources: Links to documentation, model hubs, and supplementary learning materials.
  
 ## Contributions  
-Contributions are welcome! Feel free to submit pull requests to improve or extend the codebase.
+Contributions are welcome! Feel free to submit [pull requests](https://github.com/16032022/DeepLearningAI-OpenAI-projects/pulls) to improve or extend the codebase.
 
 ## License  
 This repository is licensed under the [MIT License](https://opensource.org/license/MIT).
