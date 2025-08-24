@@ -1,16 +1,16 @@
 # ![image](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56) OpenAI
 Welcome to the OpenAI repository! This repository contains  a collection of personalized  and reviewed code examples derived by four short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [OpenAI](https://openai.com/):
 
-## ✅ [AI Python for Beginners: Automating Tasks with Python](https://github.com/16032022/DeepLearningAI-OpenAI-projects/tree/main/AI-Python-Automating-Tasks-with-Python)    
+- ✅ [AI Python for Beginners: Automating Tasks with Python](https://github.com/16032022/DeepLearningAI-OpenAI-projects/tree/main/AI-Python-Automating-Tasks-with-Python)    
 An insight in essential Python basics and how to integrate Large Language Models (LLMs) to automate repetitive tasks, prioritize workflows, and make intelligent decisions.
 
-## 📂 [AI Python for Beginners: Working with Your Own Data and Documents Python](https://github.com/16032022/DeepLearningAI-OpenAI-projects/tree/main/AI-Python-Working-with-your-Data-and-Documents)  
+- 📂 [AI Python for Beginners: Working with Your Own Data and Documents Python](https://github.com/16032022/DeepLearningAI-OpenAI-projects/tree/main/AI-Python-Working-with-your-Data-and-Documents)  
 Explore techniques to manage and analyze structured and unstructured data using Python, extracting information for the data and automating complex tasks across multiple documents. 
 
-## 📦 [AI Python for Beginners: Extending Python with Packages and APIs](https://github.com/16032022/DeepLearningAI-OpenAI-projects/tree/main/AI-Python-Extending-Python-with-Packages-and-API)
+- 📦 [AI Python for Beginners: Extending Python with Packages and APIs](https://github.com/16032022/DeepLearningAI-OpenAI-projects/tree/main/AI-Python-Extending-Python-with-Packages-and-API)
 Utilize third-party packages and Application Programming Interfaces (APIs) to expand Python's capabilities, saving time and accessing broader tools and datasets.
 
-## 🤖 [Building Systems with ChatGPT API](https://github.com/16032022/DeepLearningAI-OpenAI-projects/tree/main/Building-Systems-with-Chatgpt-AI) 
+- 🤖 [Building Systems with ChatGPT API](https://github.com/16032022/DeepLearningAI-OpenAI-projects/tree/main/Building-Systems-with-Chatgpt-AI) 
 Automate workflows through LLMs, addressing complex tasks like query classification, safety evaluation, and multi-step reasoning.
 
 
