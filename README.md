@@ -15,11 +15,11 @@ Automate workflows through LLMs, addressing complex tasks like query classificat
 
 
 ## ❓ What's Inside
-  - Customized Code Examples: Original examples from the courses have been reviewed, refined, and personalized for improved clarity and usability.
-  - Examples of real-world projects, using Python and AI, such as customizing recipes based on preferences and making data-driven decisions, or planning a dream vacation with detailed itineraries for multiple  
+  - _Customized Code Examples_: Original examples from the courses have been reviewed, refined, and personalized for improved clarity and usability.
+  - _Examples of real-world projects_, using Python and AI, such as customizing recipes based on preferences and making data-driven decisions, or planning a dream vacation with detailed itineraries for multiple  
     destinations
-  - Ready-to-Run Notebooks: Test and modify pre-configured Jupyter notebooks.
-  - Additional Resources: Links to documentation, model hubs, and supplementary learning materials.
+  - _Ready-to-Run Notebooks_: Test and modify pre-configured Jupyter notebooks. For detailed setup instructions, refer to the [Setup Instructions](https://github.com/16032022/DeepLearningAI-OpenAI-projects/blob/main/SETUP.md).  
+  - _Additional Resources_: Links to documentation, model hubs, and supplementary learning materials.
  
 ## Contributions  
 Contributions are welcome! Feel free to submit [pull requests](https://github.com/16032022/DeepLearningAI-OpenAI-projects/pulls) to improve or extend the codebase.
