@@ -1,19 +1,13 @@
 # Setup Instructions
 
-## Installing Required Python Packages  
-Install all dependencies using the provided [requirements.txt](https://github.com/16032022/DeepLearningAI_Code_Agents_HuggingFace_smolagents/blob/main/requirements.txt):
-
-```bash
-pip install -r requirements.txt
-```
-
-## How to Get Your Own OpenAI API Key   
-To install the OpenAI Python library:
+## Installing Required OpenAI Python library 
+Install the OpenAI Python library:
 
 ```bash
 pip install openai
 ```
 
+## How to Get Your Own OpenAI API Key   
 The openai library needs to be configured with your account's secret key, which is available on [OpenAI](https://platform.openai.com/account/api-keys). You can either:  
 
 - set it as the `OPENAI_API_KEY` environment variable before using the library:
@@ -56,14 +50,11 @@ openai.api_key = "your-open-api-key"
      print(api_key)  # Test if it's loaded correctly
      ```  
 
-### Example API keys in .env file:  
+### Example API key in .env file:  
 ```plaintext
 OPENAI_API_KEY=your_openai_api_key
-HF_API_KEY=your_HuggingFace_api_key
-TOGETHER_API_KEY= your_together_api_key
-TAVILY_API_KEY=your_tavily_api_key
-
 ```
+
 
 
 
