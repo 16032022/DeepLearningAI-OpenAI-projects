@@ -9,8 +9,6 @@ import csv
 # Get the OpenAI API key from the .env file
 load_dotenv('.env', override=True)
 openai_api_key = os.getenv('OPENAI_API_KEY')
-#openai_api_key = os.getenv('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')
-
 
 # Set up the OpenAI client
 client = OpenAI(api_key=openai_api_key)
