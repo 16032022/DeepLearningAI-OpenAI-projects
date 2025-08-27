@@ -4,7 +4,7 @@
 Install the OpenAI Python library:
 
 ```bash
-pip install openai
+!pip install openai
 ```
 
 ## How to Get Your Own OpenAI API Key   
@@ -13,7 +13,7 @@ The openai library needs to be configured with your account's secret key, which 
 - set it as the `OPENAI_API_KEY` environment variable before using the library:
 
 ```bash
-export OPENAI_API_KEY='sk-...'
+!export OPENAI_API_KEY='sk-...'
 ```
 
 - Or, set `openai.api_key` to its value:
@@ -38,7 +38,7 @@ openai.api_key = "your-open-api-key"
    - For Python (using `dotenv` package):
      
      ```bash
-     pip install python-dotenv
+     !pip install python-dotenv
      ```  
    - Then, in your Python script:
      
@@ -50,10 +50,9 @@ openai.api_key = "your-open-api-key"
      print(api_key)  # Test if it's loaded correctly
      ```  
 
-### Example API key in .env file:  
-```plaintext
-OPENAI_API_KEY=your_openai_api_key
-```
+
+
+
 
 
 
